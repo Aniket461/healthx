@@ -1,0 +1,11 @@
+{
+    "realm": "diadema-realm",
+    "auth-server-url": "http://localhost:8080",
+    "ssl-required": "none",
+    "resource": "healthx-client",
+    "credentials": {
+      "secret": "agMoyDyx0rNYVMKdNrRRGn3lL8omE7hg"
+    },
+    "confidential-port": 0
+  }
+  
